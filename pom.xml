@@ -11,7 +11,7 @@
 
     <version>0.0.1-SNAPSHOT</version>
     <artifactId>queue-consumer</artifactId>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
 
     <description>Сервис-потребитель целевых сообщений</description>
 
